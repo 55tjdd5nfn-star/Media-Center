@@ -1,4 +1,4 @@
-**Media Center - Beta 1.1
+**Media Center - Beta 1.1**
 Media Center is a free, native macOS app for music and movies in one local library. No subscription, no account, and no cloud service in the middle. It points at folders on the Mac and plays the files already there.
 The app is written in SwiftUI. Playback runs on AVPlayer, the library is stored in plain local JSON, and most heavy work happens on device.
 Beta 1.1 is an early version. The core works, and development is still active. Bugs can be reported in Issues.
